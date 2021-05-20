@@ -42,3 +42,29 @@ h1 {
    text-align: left; 
    margin: 0 auto;
 }
+
+#count {
+    margin-left: 5px
+}
+
+#addMessage {
+    width: 50%;
+    margin-right: 15px;
+    height: 30px;
+    border: 3px solid #008BCD;
+    border-radius: 5px;
+    
+}
+
+#addButton {
+    width: 10%;
+    height: 38px;
+    border: 3px solid #008BCD;
+    border-radius: 5px;
+    color: #008BCD;
+    background-color: white;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+
+}
